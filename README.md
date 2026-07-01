@@ -1,48 +1,56 @@
-# 🌐 Personal Portfolio Website
-(for portfolio direct link- http://127.0.0.1:3000/index.html?vscode-livepreview=true )
+# 🚀 CODSOFT Web Development Internship Projects
 
-Welcome to my personal portfolio website! 🚀
+Welcome to my **CODSOFT Web Development Internship** repository!
 
-This portfolio was developed as part of my **CODSOFT Web Development Internship** to showcase my skills, projects, and journey as an aspiring Frontend Developer.
+This repository contains the projects I successfully completed during my internship at **CODSOFT**. Each project was designed to strengthen my understanding of frontend web development by applying core web technologies to real-world tasks.
 
-## 📌 About the Project
+## 📂 Projects Included
 
-This website serves as my digital portfolio where visitors can:
+### 🌐 1. Personal Portfolio Website
 
-* Learn more about me
-* Explore my technical skills
-* View my featured projects
-* Download my resume
-* Contact me through the integrated contact form
+A responsive portfolio website showcasing my skills, projects, education, and contact information with a clean and modern user interface.
 
-The website is fully responsive and designed with a clean, modern user interface to provide a smooth browsing experience across different devices.
+### 🎨 2. Landing Page
+
+A visually appealing and responsive landing page built with modern design principles, smooth layouts, and interactive elements to deliver an engaging user experience.
+
+### 🧮 3. Calculator
+
+A functional calculator capable of performing basic arithmetic operations with a simple, user-friendly, and responsive interface.
 
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
-* Python
-* AI Tools
+* Responsive Web Design
 
-## ✨ Features
+## ✨ Skills Gained
 
-* Modern and responsive design
-* Smooth scrolling navigation
-* Animated sections
-* Project showcase
-* Skills section
-* About Me section
-* Resume viewer
-* Contact form
-* Mobile-friendly layout
+* Responsive Web Development
+* UI/UX Design Principles
+* JavaScript DOM Manipulation
+* CSS Flexbox & Grid
+* Clean Code Practices
+* Problem Solving
+* Project Structure & Organization
 
-## 🎯 Purpose
+## 🎯 Internship Objective
 
-The primary goal of this project is to demonstrate my frontend development skills while continuously improving my knowledge of web technologies through practical projects.
+These projects were developed as part of the **CODSOFT Web Development Internship** to strengthen my frontend development skills through practical implementation and hands-on learning. Each project reflects my commitment to writing clean, responsive, and user-friendly code while continuously improving my technical expertise.
 
-## 📬 Contact
+## 📸 Project Previews
 
-If you have any feedback, suggestions, or collaboration opportunities, feel free to connect with me.
+Add screenshots of each project here.
 
-⭐ If you like this project, don't forget to star the repository!
+## 🔗 Live Demo
+
+* 🌐 Portfolio Website: *Add Link*
+* 🎨 Landing Page: *Add Link*
+* 🧮 Calculator: *Add Link*
+
+## 📬 Connect With Me
+
+If you have any suggestions, feedback, or collaboration opportunities, feel free to connect with me.
+
+⭐ Thank you for visiting this repository! If you found these projects helpful or interesting, consider giving this repository a star.

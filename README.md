@@ -45,9 +45,9 @@ Add screenshots of each project here.
 
 ## 🔗 Live Demo
 
-* 🌐 Portfolio Website: *Add Link*
-* 🎨 Landing Page: *Add Link*
-* 🧮 Calculator: *Add Link*
+* 🌐 Portfolio Website: http://127.0.0.1:3000/index.html?vscode-livepreview=true
+* 🎨 Landing Page: http://127.0.0.1:3000/index.html?vscode-livepreview=true
+* 🧮 Calculator: http://127.0.0.1:3002/index.html?vscode-livepreview=true
 
 ## 📬 Connect With Me
 

@@ -22,9 +22,8 @@ The website is fully responsive and designed with a clean, modern user interface
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Design
-* Font Awesome
-* Google Fonts
+* Python
+* AI Tools
 
 ## ✨ Features
 
